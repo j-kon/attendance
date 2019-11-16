@@ -1,6 +1,6 @@
 # attendance
 
-A new Flutter application.
+A new Flutter application, that is use for checking in and checking out staff of iT Central, it uses location and fingerprint. Application is still under development.
 
 ## Getting Started
 
